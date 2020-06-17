@@ -6,6 +6,6 @@ class ProductsRepo
 {
     public function getProducts($id)
     {
-        return $this->where('products' , $id);
+        return 'mantapu' ;
     }
 }
